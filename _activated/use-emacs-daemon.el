@@ -1,1 +1,3 @@
-../_configs/use-emacs-daemon.el
+;; use-emacs-daemon
+(server-start)
+(provide 'use-emacs-daemon)

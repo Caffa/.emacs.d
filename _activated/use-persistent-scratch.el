@@ -1,1 +1,1 @@
-../_configs/use-persistent-scratch.el
+(persistent-scratch-autosave-mode 1)

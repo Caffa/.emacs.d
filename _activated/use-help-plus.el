@@ -1,1 +1,3 @@
-../_configs/use-help-plus.el
+(require 'help-fns+)
+
+;; Used for the describe-keymap function

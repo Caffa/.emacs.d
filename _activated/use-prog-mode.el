@@ -1,1 +1,2 @@
-../_configs/use-prog-mode.el
+;; Actually a global
+(bind-key "C-c TAB" 'indent-buffer)

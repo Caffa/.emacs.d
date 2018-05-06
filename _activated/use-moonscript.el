@@ -1,1 +1,4 @@
-../_configs/use-moonscript.el
+(require 'moonscript-mode)
+(require 'moonscriptrepl-mode)
+
+(provide 'use-moonscript)

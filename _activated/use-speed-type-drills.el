@@ -1,1 +1,1 @@
-../_configs/use-speed-type-drills.el
+(require 'speed-type-keyboard-drills)
